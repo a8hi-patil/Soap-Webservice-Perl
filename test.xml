@@ -1,0 +1,11 @@
+<?xml version=\"1.0\" encoding=\"utf-8\"?>
+               <soapenv:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:urn="urn:get_recall_attributes">
+                    <soapenv:Header/>
+                        <soapenv:Body>
+                            <urn:GetRecallAttributes soapenv:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+                            <Item xsi:type="xsd:string">544247510001</Item>
+                            <Rev xsi:type="xsd:string">A</Rev>
+                            <Seq xsi:type="xsd:string">6</Seq>
+                            </urn:GetRecallAttributes>
+                        </soapenv:Body>
+                </soapenv:Envelope>

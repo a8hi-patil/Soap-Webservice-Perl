@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TranslationTask id="U381505d3063bfe86517xx" priority="2" provider="SIEMENS" service="proetodxf" context="Translation" srcdir="/user/uaprod/Dist_Root12/Stage/DC/U381505d3063bfe86517xx"><User name="dcproxy" email=""/>
+<TranslationData id="0">
+
+<TranslationSrcInfo filename="547133203701.drw" filetype="source">
+    <UserDefAttribute name="datasetname" value="547133203701"/>
+    <UserDefAttribute name="itemid" value="547133203701"/>
+    <UserDefAttribute name="revisionid" value="D;3"/>
+</TranslationSrcInfo>
+
+<TranslationDBMapInfo><UserDefAttribute name="priobjuid" value="T5oNbL6Rokww7D"/>
+<UserDefAttribute name="secobjuid" value="TppNbL6Rokww7D"/>
+<UserDefAttribute name="visfilename" value="547133203701.dxf"/>
+</TranslationDBMapInfo>
+</TranslationData>
+<TranslationDataRef id="0"/>
+</TranslationTask>
+
+
+

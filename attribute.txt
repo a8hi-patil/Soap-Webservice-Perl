@@ -1,0 +1,10 @@
+Part Number::544224100008
+Description::ENGINE MTG-INFO FIT DRG
+Modification Description::TORQUE FOR C MOUNT BRACKET CHANGED TO 70-75 Nm WAS 60-65 Nm
+Track & Trace ::
+Critical to Emission Critical to Safety::
+Drawing Sheet Size and Sheet orientation::A2
+
+Part Number::544224100008
+Revision::B
+Seq::3
